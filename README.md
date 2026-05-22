@@ -1,4 +1,4 @@
-# KT-SQEP XML 生成器技能
+# KT-SQEP XML 生成器SKILL
 
 此技能使 Claude Code 能够根据提供的内容生成 **KT-SQEP 兼容的思维导图 XML 文件**。
 
