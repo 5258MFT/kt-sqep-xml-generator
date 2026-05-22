@@ -29,5 +29,5 @@ KT-SQEP 是一款思维导图软件。本技能可将任意树状结构的输入
 
 ## 安装
 
-1. 将技能文件夹放入 Claude Code 项目的 `.claude/skills/` 目录中。
+1. 将kt-sqep-xml-generator文件夹放入 Claude Code 项目的 `.claude/skills/` 目录中。
 2. **提供参考 XML 文件** – `references/` 目录必须包含至少 2–3 个从 KT-SQEP 导出的有效 XML 文件。这些文件作为精确 XML 模式、字段值和约定的标准依据。技能在生成任何新 XML 之前会先读取这些文件。（本项目默认提供了三个简单的示例以供参考）
